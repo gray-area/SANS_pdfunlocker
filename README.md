@@ -1,6 +1,8 @@
 # SANS_pdfunlocker
 
-In order for the unlocker script to work, the script needs to be in the same folder as the pdf books. My setup process looks like this:
+In order for the unlocker script to work, the script needs to be in the same folder as the pdf books. 
+
+My setup process looks like this:
 
 * Create folder to place all locked books
 * Place all locked books in folder just created
